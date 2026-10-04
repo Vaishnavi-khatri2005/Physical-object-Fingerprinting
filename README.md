@@ -10,6 +10,7 @@
 Watch the ShoePrint smartphone camera identification workflow in action:
 
 https://github.com/user-attachments/assets/ (or view the local recording: [docs/shoeprint_demo.mp4](docs/shoeprint_demo.mp4))
+or you can watch here https://drive.google.com/file/d/1deDo2L6ntDsPwHUtmuNMFVxLGlt7Uxvw/view?usp=drivesdk
 
 <video src="docs/shoeprint_demo.mp4" controls="controls" width="100%" height="auto"></video>
 
