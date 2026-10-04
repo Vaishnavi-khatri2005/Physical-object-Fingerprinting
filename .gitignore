@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit local state
+.streamlit/
+
+# Temporary / scratch files
+scratch/
+tmp/
+*.tmp
+
+# Cache & evaluation intermediates (keep outputs reproducible via scripts)
+outputs/cache/
+outputs/foreground_masks/
+test_masks/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini

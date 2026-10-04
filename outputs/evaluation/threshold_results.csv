@@ -1,0 +1,47 @@
+query_image,true_shoe,genuine_score,highest_impostor_score,predicted_shoe,decision
+WhatsApp Image 2026-10-03 at 10.29.42 PM (2).jpeg,shoe1,627,4,shoe1,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.42 PM.jpeg,shoe1,278,4,shoe1,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.43 PM.jpeg,shoe1,25,4,shoe1,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.45 PM (1).jpeg,shoe1,105,4,shoe1,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.45 PM.jpeg,shoe1,272,4,shoe1,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.48 PM.jpeg,shoe1,212,95,shoe1,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.35 PM (1).jpeg,shoe2,5,6,shoe3,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.35 PM (2).jpeg,shoe2,26,33,shoe5,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.36 PM.jpeg,shoe2,34,83,shoe5,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.37 PM.jpeg,shoe2,12,8,shoe2,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.38 PM.jpeg,shoe2,88,18,shoe2,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.15 PM.jpeg,shoe3,37,22,shoe3,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.19 PM (1).jpeg,shoe3,19,68,shoe4,REJECTED
+WhatsApp Image 2026-10-03 at 10.32.21 PM.jpeg,shoe3,87,9,shoe3,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.22 PM.jpeg,shoe3,238,23,shoe3,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.23 PM (1).jpeg,shoe3,18,11,shoe3,REJECTED
+WhatsApp Image 2026-10-03 at 10.32.23 PM.jpeg,shoe3,17,22,shoe5,REJECTED
+WhatsApp Image 2026-10-03 at 10.32.25 PM.jpeg,shoe3,85,30,shoe3,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.27 PM (2).jpeg,shoe3,4,5,shoe6,REJECTED
+WhatsApp Image 2026-10-03 at 10.32.29 PM (1).jpeg,shoe3,40,50,shoe5,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.49 PM (1).jpeg,shoe4,459,24,shoe4,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.50 PM (1).jpeg,shoe4,223,7,shoe4,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.05 PM (1).jpeg,shoe4,330,12,shoe4,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.08 PM (2).jpeg,shoe4,32,7,shoe4,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.09 PM.jpeg,shoe4,61,13,shoe4,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.10 PM (1).jpeg,shoe4,30,5,shoe4,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.11 PM.jpeg,shoe4,155,7,shoe4,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.32.12 PM.jpeg,shoe4,396,7,shoe4,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.27 PM (1).jpeg,shoe5,0,0,none,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.28 PM.jpeg,shoe5,4,4,shoe5,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.32 PM (2).jpeg,shoe5,9,8,shoe5,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.32 PM.jpeg,shoe5,118,8,shoe5,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.33 PM (1).jpeg,shoe5,109,68,shoe5,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.33 PM.jpeg,shoe5,21,5,shoe5,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.34 PM (1).jpeg,shoe5,44,105,shoe6,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.18 PM (1).jpeg,shoe6,12,4,shoe6,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.18 PM.jpeg,shoe6,85,30,shoe6,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.19 PM.jpeg,shoe6,148,18,shoe6,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.22 PM (1).jpeg,shoe6,145,15,shoe6,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.22 PM.jpeg,shoe6,39,36,shoe6,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.25 PM.jpeg,shoe6,113,6,shoe6,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.11 PM (2).jpeg,shoe7,5,4,shoe7,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.12 PM (2).jpeg,shoe7,83,4,shoe7,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.12 PM (3).jpeg,shoe7,0,6,shoe3,REJECTED
+WhatsApp Image 2026-10-03 at 10.29.13 PM (1).jpeg,shoe7,120,4,shoe7,ACCEPTED
+WhatsApp Image 2026-10-03 at 10.29.13 PM.jpeg,shoe7,9,5,shoe7,REJECTED

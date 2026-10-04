@@ -1,0 +1,47 @@
+query_image,true_shoe,predicted_shoe,correct,top1_score
+WhatsApp Image 2026-10-03 at 10.29.42 PM (2).jpeg,shoe1,shoe1,True,594
+WhatsApp Image 2026-10-03 at 10.29.42 PM.jpeg,shoe1,shoe1,True,268
+WhatsApp Image 2026-10-03 at 10.29.43 PM.jpeg,shoe1,shoe1,True,28
+WhatsApp Image 2026-10-03 at 10.29.45 PM (1).jpeg,shoe1,shoe1,True,103
+WhatsApp Image 2026-10-03 at 10.29.45 PM.jpeg,shoe1,shoe1,True,270
+WhatsApp Image 2026-10-03 at 10.29.48 PM.jpeg,shoe1,shoe1,True,201
+WhatsApp Image 2026-10-03 at 10.29.35 PM (1).jpeg,shoe2,shoe2,True,21
+WhatsApp Image 2026-10-03 at 10.29.35 PM (2).jpeg,shoe2,shoe1,False,43
+WhatsApp Image 2026-10-03 at 10.29.36 PM.jpeg,shoe2,shoe4,False,73
+WhatsApp Image 2026-10-03 at 10.29.37 PM.jpeg,shoe2,shoe2,True,12
+WhatsApp Image 2026-10-03 at 10.29.38 PM.jpeg,shoe2,shoe2,True,82
+WhatsApp Image 2026-10-03 at 10.32.15 PM.jpeg,shoe3,shoe3,True,13
+WhatsApp Image 2026-10-03 at 10.32.19 PM (1).jpeg,shoe3,shoe1,False,24
+WhatsApp Image 2026-10-03 at 10.32.21 PM.jpeg,shoe3,shoe3,True,69
+WhatsApp Image 2026-10-03 at 10.32.22 PM.jpeg,shoe3,shoe3,True,157
+WhatsApp Image 2026-10-03 at 10.32.23 PM (1).jpeg,shoe3,shoe4,False,48
+WhatsApp Image 2026-10-03 at 10.32.23 PM.jpeg,shoe3,shoe4,False,27
+WhatsApp Image 2026-10-03 at 10.32.25 PM.jpeg,shoe3,shoe1,False,79
+WhatsApp Image 2026-10-03 at 10.32.27 PM (2).jpeg,shoe3,shoe3,True,5
+WhatsApp Image 2026-10-03 at 10.32.29 PM (1).jpeg,shoe3,shoe4,False,82
+WhatsApp Image 2026-10-03 at 10.29.49 PM (1).jpeg,shoe4,shoe4,True,296
+WhatsApp Image 2026-10-03 at 10.29.50 PM (1).jpeg,shoe4,shoe4,True,218
+WhatsApp Image 2026-10-03 at 10.32.05 PM (1).jpeg,shoe4,shoe4,True,310
+WhatsApp Image 2026-10-03 at 10.32.08 PM (2).jpeg,shoe4,shoe4,True,26
+WhatsApp Image 2026-10-03 at 10.32.09 PM.jpeg,shoe4,shoe4,True,52
+WhatsApp Image 2026-10-03 at 10.32.10 PM (1).jpeg,shoe4,shoe4,True,27
+WhatsApp Image 2026-10-03 at 10.32.11 PM.jpeg,shoe4,shoe4,True,138
+WhatsApp Image 2026-10-03 at 10.32.12 PM.jpeg,shoe4,shoe4,True,227
+WhatsApp Image 2026-10-03 at 10.29.27 PM (1).jpeg,shoe5,none,False,0
+WhatsApp Image 2026-10-03 at 10.29.28 PM.jpeg,shoe5,shoe2,False,4
+WhatsApp Image 2026-10-03 at 10.29.32 PM (2).jpeg,shoe5,shoe3,False,16
+WhatsApp Image 2026-10-03 at 10.29.32 PM.jpeg,shoe5,shoe5,True,103
+WhatsApp Image 2026-10-03 at 10.29.33 PM (1).jpeg,shoe5,shoe4,False,60
+WhatsApp Image 2026-10-03 at 10.29.33 PM.jpeg,shoe5,shoe3,False,15
+WhatsApp Image 2026-10-03 at 10.29.34 PM (1).jpeg,shoe5,shoe6,False,85
+WhatsApp Image 2026-10-03 at 10.29.18 PM (1).jpeg,shoe6,shoe6,True,10
+WhatsApp Image 2026-10-03 at 10.29.18 PM.jpeg,shoe6,shoe3,False,191
+WhatsApp Image 2026-10-03 at 10.29.19 PM.jpeg,shoe6,shoe6,True,125
+WhatsApp Image 2026-10-03 at 10.29.22 PM (1).jpeg,shoe6,shoe6,True,109
+WhatsApp Image 2026-10-03 at 10.29.22 PM.jpeg,shoe6,shoe1,False,34
+WhatsApp Image 2026-10-03 at 10.29.25 PM.jpeg,shoe6,shoe6,True,102
+WhatsApp Image 2026-10-03 at 10.29.11 PM (2).jpeg,shoe7,shoe4,False,6
+WhatsApp Image 2026-10-03 at 10.29.12 PM (2).jpeg,shoe7,none,False,0
+WhatsApp Image 2026-10-03 at 10.29.12 PM (3).jpeg,shoe7,shoe3,False,4
+WhatsApp Image 2026-10-03 at 10.29.13 PM (1).jpeg,shoe7,shoe7,True,88
+WhatsApp Image 2026-10-03 at 10.29.13 PM.jpeg,shoe7,shoe4,False,8
