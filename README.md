@@ -2,6 +2,17 @@
 
 **ShoePrint** is a computer vision research pipeline and interactive application built to identify the **exact physical shoe instance** from a photograph. Unlike categorical classification (which simply identifies a brand or model), instance-level fingerprinting identifies the specific individual physical shoe by matching unique surface characteristics: micro-creases, wear and tear abrasion patterns, outsole tread erosion, and stitching nuances.
 
+
+---
+
+## 📱 Live Demo Video
+
+Watch the ShoePrint smartphone camera identification workflow in action:
+
+https://github.com/user-attachments/assets/ (or view the local recording: [docs/shoeprint_demo.mp4](docs/shoeprint_demo.mp4))
+
+<video src="docs/shoeprint_demo.mp4" controls="controls" width="100%" height="auto"></video>
+
 ---
 
 ## 1. Problem Statement
